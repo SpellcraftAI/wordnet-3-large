@@ -1,9 +1,9 @@
 {
   "embeddings": [
     {
-      "tensorName": "WordNet",
+      "tensorName": "OpenAI: Embedding-3-Large x WordNet-NVA-6",
       "tensorShape": [
-        13865,
+        12422,
         3072
       ],
       "tensorPath": "https://media.githubusercontent.com/media/SpellcraftAI/wordnet-3-large/master/embeddings.tsv",
