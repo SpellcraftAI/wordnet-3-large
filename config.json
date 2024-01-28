@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "WordNet",
+      "tensorShape": [
+        13865,
+        3072
+      ],
+      "tensorPath": "https://media.githubusercontent.com/media/SpellcraftAI/wordnet-3-large/master/embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/SpellcraftAI/wordnet-3-large/master/metadata.tsv"
+    }
+  ]
+}
